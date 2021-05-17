@@ -1,0 +1,7 @@
+input , label,textarea ,select,button{
+    display: block;
+    margin-bottom: 5px; 
+} 
+.text{
+    cursor: progress;
+} 
